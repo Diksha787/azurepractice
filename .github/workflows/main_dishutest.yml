@@ -39,4 +39,4 @@ jobs:
           app-name: 'dishutest'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F6AD672DC644835AB6BBB90C945C633 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF8E07DC537D4ADD88F816C7D3A4F432 }}
